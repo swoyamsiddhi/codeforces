@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 5 |
+| 6 | 5 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [sortings](#sortings) (1)
 - [strings](#strings) (4)
 
@@ -41,6 +41,7 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 
 ### sortings
 
