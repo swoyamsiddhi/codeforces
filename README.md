@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 5 |
+| 8 | 5 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [sortings](#sortings) (1)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 
 ---
 
@@ -36,6 +36,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
@@ -54,6 +55,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/59/A%20-%20Word/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
