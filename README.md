@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 7 |
+| 18 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (15)
 - [math](#math) (3)
@@ -27,6 +27,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/swoyamsiddhi/codeforces/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 
 ### greedy
 
